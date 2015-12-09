@@ -1,0 +1,33 @@
+{ "results": [
+	{
+        "ACL": {
+            "eUY8Ihyi9k": {
+                "read": true,
+                "write": true
+            }
+        },
+
+        "email": "emmali10333@gmail.com",
+
+        "instacheckImg": {
+            "__type": "File",
+            "name": "bill.jpg",
+            "url": "http://files.parsetfss.com/83a27ff8-fc1b-4167-b2c8-5fcd46fe04d4/tfss-f17b3e71-ad36-4b1c-9c18-9a216d98a767-bill.jpg"
+        },
+
+        "restaurantName": "MC",
+       
+        
+        "instacheckItems": "1 Bread 5.00\n1 Soup 13.00\n\n1 Black Cod 31.00\n1 Porridge 33.00\n\n1 Rhubara 12.00\n\n1 Syrah, Mgraillot Equinoxe 14.00\n\nSubtotal: 108.00\n\nTax: 9.45\n\nTotal: 117.45\n\nBalance Due: 117.45",
+        
+        "eatingTime": "15/10/2015",
+
+        "createdAt": "2015-10-15T21:40:43.345Z",
+
+        "updatedAt": "2015-10-16T00:33:40.068Z",
+
+
+        "objectId": "DLaeiNvmXH"
+      
+    }
+] }
